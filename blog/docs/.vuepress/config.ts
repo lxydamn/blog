@@ -15,7 +15,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: `/img/logo/favicon-16x16.png`
+        href: `/img/qq.jpeg`
       }
     ],
     [
@@ -24,7 +24,7 @@ export default defineUserConfig({
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: `/img/logo/favicon-32x32.png`
+        href: `/img/qq.jpeg`
       }
     ],
     ["meta", { name: "application-name", content: "Xiaohan Zou" }],
@@ -128,7 +128,7 @@ export default defineUserConfig({
 
     navbar: [
       {
-        text: "花园",
+        text: "首页",
         link: "/",
         icon: "fa-fort-awesome"
       },
@@ -144,7 +144,7 @@ export default defineUserConfig({
       },
       {
         text: "关于",
-        link: "https://lxycxy.github.io",
+        link: "https://github.com/lxycxy/",
         icon: "fa-paw"
       },
     ],

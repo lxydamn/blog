@@ -8,53 +8,6 @@ export const searchIndex = [
     "layout": "Links"
   },
   {
-    "title": "Git团队协作",
-    "subtitle": "git & github 的团队开发",
-    "headers": [
-      {
-        "level": 2,
-        "title": "基本操作",
-        "slug": "基本操作",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "团队协作",
-        "slug": "团队协作",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Git",
-        "slug": "git",
-        "children": [
-          {
-            "level": 3,
-            "title": "git基本概念",
-            "slug": "git基本概念",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "git常用命令",
-            "slug": "git常用命令",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "冲突解决",
-        "slug": "冲突解决",
-        "children": []
-      }
-    ],
-    "path": "/posts/GitInstruction.html",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Post"
-  },
-  {
     "title": "Kob 复盘",
     "subtitle": "AI小蛇双人回合制对抗游戏",
     "headers": [
@@ -173,30 +126,6 @@ export const searchIndex = [
     "pathLocale": "/",
     "extraFields": [],
     "layout": "HomePage"
-  },
-  {
-    "title": "教学 | Tags",
-    "headers": [],
-    "path": "/tags/%E6%95%99%E5%AD%A6/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
-  },
-  {
-    "title": "git | Tags",
-    "headers": [],
-    "path": "/tags/git/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
-  },
-  {
-    "title": "github | Tags",
-    "headers": [],
-    "path": "/tags/github/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
   },
   {
     "title": "AI | Tags",

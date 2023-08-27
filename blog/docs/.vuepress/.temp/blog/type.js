@@ -1,4 +1,4 @@
-export const typeMap = {"post":{"/":{"path":"/","keys":["v-1882e870","v-01487058"]}}}
+export const typeMap = {"post":{"/":{"path":"/","keys":["v-01487058"]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-0fd81dff\",\"path\":\"/tags/%E6%80%BB%E7%BB%93/\",\"title\":\"总结 | Tags\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"总结 | Tags\",\"layout\":\"Tags\",\"blog\":{\"type\":\"category\",\"name\":\"总结\",\"key\":\"tag\"}},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":null}")
